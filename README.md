@@ -46,7 +46,8 @@
 *Пришлите блоксхему, где и что будет располагаться. Опишите, в каких режимах будут работать сервера.* 
 
 ### Решение 2
-[plan](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/a6783222-30d0-4d7c-a892-506ff3e1983b)
+[plan vert](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/a6783222-30d0-4d7c-a892-506ff3e1983b)
+[plan horiz](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/482b7ba6-d2aa-4c8b-9277-3d325a819e0d)
 
 
 ## Дополнительные задания (со звёздочкой*)
