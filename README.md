@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Репликация и масштабирование. Часть 2»
+![image](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/24417907-b448-4045-a9b7-c881e3bcb7a9)# Домашнее задание к занятию «Репликация и масштабирование. Часть 2»
 
 
 ### Задание 1
@@ -117,3 +117,19 @@
 Выполните настройку выбранных методов шардинга из задания 2.
 
 *Пришлите конфиг Docker и SQL скрипт с командами для базы данных*.
+
+### Решение 3*
+
+[docker ps](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/a79e0407-f7a1-4309-9ef9-5ffe62beef5f)
+[docker-compose_1](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/5def8781-2245-444f-9b08-bdb813de083a)
+[docker-compose_2](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/c04e9916-1d93-4d98-8c00-ce52a5c87c0b)
+[docker-compose_3](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/8609c2e6-9308-46d5-add4-28611ee6a2f4)
+
+
+
+
+
+
+
+
+
