@@ -126,6 +126,7 @@
 [docker-compose_3](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/8609c2e6-9308-46d5-add4-28611ee6a2f4)
 
 shardings
+
 [postgres_all](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/ff4bf16e-e904-4773-837f-7b2007ebfb18)
 [postgres_u-insert_data](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/b6f62a93-89ba-4b07-85e8-44e605254263)
 [postgres_u-no_shard](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/1c204897-0f91-4eda-9cb7-8f4f265869bd)
