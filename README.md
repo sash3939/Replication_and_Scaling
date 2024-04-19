@@ -125,6 +125,24 @@
 [docker-compose_2](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/c04e9916-1d93-4d98-8c00-ce52a5c87c0b)
 [docker-compose_3](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/8609c2e6-9308-46d5-add4-28611ee6a2f4)
 
+shardings
+[postgres_all](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/ff4bf16e-e904-4773-837f-7b2007ebfb18)
+[postgres_u-insert_data](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/b6f62a93-89ba-4b07-85e8-44e605254263)
+[postgres_u-no_shard](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/1c204897-0f91-4eda-9cb7-8f4f265869bd)
+[postgres_u-shard-part1](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/43e5ff24-42ed-480f-8c87-7866728862c2)
+[postgres_u-shard-part2](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/90986e1b-4069-4258-b733-7646f90e01b8)
+[postgres_u-shard-part3](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/2978cd5c-8ddb-4b28-8051-456ff2e40c4d)
+
+[postgres_u1-shards](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/b8abd8ed-1e83-43b0-a547-875e8f18c1cc)
+[postgres_u2-shards](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/1ce26618-1587-461f-b904-95f725d466f6)
+[postgres_u3-shards](https://github.com/sash3939/Replication_and_Scaling/assets/156709540/dc720e48-1b40-4487-883b-e6de26a63db7)
+
+**Аналогично структура папок и файлов для таблиц books и users. См. скриншот docker ps с поднятыми контейнерами.**
+
+
+
+
+
 
 
 
